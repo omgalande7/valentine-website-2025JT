@@ -66,7 +66,7 @@ const CONFIG = {
         enabled: true,
         autoplay: true,
         // Pro Tip: If the music doesn't play, use the 'Embed' link instead of the watch link
-        musicUrl: "https://www.youtube.com/embed/Gq2hcE4V7Jo?autoplay=1", 
+        musicUrl: "<iframe width="560" height="315" src="https://www.youtube.com/embed/Gq2hcE4V7Jo?si=kZW2a_GVQtJ3czpk&amp;start=49" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>", 
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",
         volume: 0.5
