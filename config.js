@@ -43,7 +43,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
         // This adds your 'valen.jpg' to the final screen
-        message: "Now come give me a big warm hug and a huge kiss! <br><br> <img src='valen.jpg.jpeg' style='width:250px; border-radius:15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);'>",
+        message: "Now come give me a big warm hug and a huge kiss! <br><br>,
         emojis: "🎁💖🤗💝💋❤️💕"
     },
 
